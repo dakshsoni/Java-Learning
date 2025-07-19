@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Deepak\Interview Questions\Design Patterns\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2507960522.index
+428847461.index
