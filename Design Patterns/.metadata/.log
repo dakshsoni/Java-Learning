@@ -1,17 +1,17 @@
-!SESSION 2025-07-19 11:12:49.491 -----------------------------------------------
+!SESSION 2025-07-19 11:31:51.918 -----------------------------------------------
 eclipse.buildId=4.21.0.202312011804
 java.version=17.0.9
 java.vendor=Eclipse Adoptium
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
-Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
-Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data D:\Deepak\Interview Questions\Design Patterns -product org.springframework.boot.ide.branding.sts4
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
-!ENTRY org.eclipse.emf.ecore 2 0 2025-07-19 11:12:56.084
+!ENTRY org.eclipse.emf.ecore 2 0 2025-07-19 11:31:53.065
 !MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
 
-!ENTRY org.eclipse.jface 2 0 2025-07-19 11:13:37.483
+!ENTRY org.eclipse.jface 2 0 2025-07-19 11:32:05.038
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
-!SUBENTRY 1 org.eclipse.jface 2 0 2025-07-19 11:13:37.483
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-07-19 11:32:05.038
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
@@ -30,12 +30,33 @@ Binding(CTRL+SHIFT+T,
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
-!ENTRY org.eclipse.egit.ui 2 0 2025-07-19 11:13:45.535
+!ENTRY org.eclipse.egit.ui 2 0 2025-07-19 11:32:08.187
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\daksh'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:14:45.504
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:39.639
+!MESSAGE Classpath changed for project: AbstractFactoryDesignPattern
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:39.640
 !MESSAGE Classpath changed for project: BuilderDesignPattern
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:39.641
+!MESSAGE Classpath changed for project: FactoryDesignPattern
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:39.641
+!MESSAGE Classpath changed for project: SingletonDesignPattern
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:40.970
+!MESSAGE Classpath changed for project: AbstractFactoryDesignPattern
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:40.971
+!MESSAGE Classpath changed for project: BuilderDesignPattern
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:40.971
+!MESSAGE Classpath changed for project: FactoryDesignPattern
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-07-19 11:32:40.972
+!MESSAGE Classpath changed for project: SingletonDesignPattern
